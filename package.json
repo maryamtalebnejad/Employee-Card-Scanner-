@@ -1,0 +1,36 @@
+{
+  "name": "card-scanner2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/sequelize": "^4.28.9",
+    "Math": "0.0.1-security",
+    "angular": "^1.8.0",
+    "clear": "^0.1.0",
+    "faker": "^5.1.0",
+    "import": "0.0.6",
+    "jalali-date-time": "^3.2.1",
+    "jalali-moment": "^3.3.8",
+    "jest": "^26.4.2",
+    "joi": "^17.2.1",
+    "math": "0.0.3",
+    "moment": "^2.28.0",
+    "moment-jalaali": "^0.9.2",
+    "persian-date": "^1.1.0",
+    "prompt-sync": "^4.2.0",
+    "sequelize": "^6.3.5",
+    "sequelize-mock": "^0.10.2",
+    "sequelize-mysql-timestamp": "^1.4.0",
+    "sequelize-simple-cache": "^1.1.1",
+    "sequelize-use-cache": "^2.0.1",
+    "sqlite3": "^5.0.0",
+    "tedious": "^9.2.1",
+    "validator": "^13.1.1"
+  }
+}
